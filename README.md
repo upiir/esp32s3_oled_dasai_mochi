@@ -3,9 +3,9 @@ Make your own Dasai Mochi with Seeed Xiao ESP32S3 and SSD1306 128x32px IIC OLED 
 
 
 
-**YouTube video: XXX**
+**YouTube video: https://youtu.be/QOoszpg0BsM**
 
-**WOKWI sketch: XXX**
+**WOKWI sketch: https://wokwi.com/projects/426385808890236929**
 
 ![THUMB_xiao_dasai_mochi2](https://github.com/user-attachments/assets/213fd580-742c-4d4a-badf-55122e8f3c1f)
 
